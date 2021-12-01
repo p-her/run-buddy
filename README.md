@@ -12,3 +12,5 @@ https://p-her.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Pao Her
+
+# Run Buddy Inc.
