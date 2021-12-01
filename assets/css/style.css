@@ -89,19 +89,19 @@ section {
 }
 
 .hero-form {
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-    border: 3px solid #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
 }
 
 .hero-form h3 {
-    margin: 0;
     font-size: 24px;
+    margin: 0;
 }
 
 .hero-form p {
@@ -217,14 +217,6 @@ section {
     width: 65%;
 }
 
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
-
 .trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
@@ -240,6 +232,18 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
+
+
 
 
 /* REACH OUT STYLES START */
@@ -282,3 +286,4 @@ section {
 .contact-info a {
     color: #fce138;
 }
+
