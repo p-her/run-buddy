@@ -1,5 +1,5 @@
 # run-buddy
--[Installation](#Installation)
+- [Installation](#installation)
 
 ## Purpose
 A website that offers fitness training services.
